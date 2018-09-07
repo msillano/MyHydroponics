@@ -8,7 +8,9 @@
 
 --------
 ## complete DIY projects
- - *Ebb and Flow* for Orchids."https://github.com/msillano/Sonoff-ebb-and-flow" 
+ - *Ebb and Flow* for Orchids "https://github.com/msillano/Sonoff-ebb-and-flow" 
+ 
 ![Orchids Ebb and Flow](images/rfico.png  "see https://github.com/msillano/Sonoff-ebb-and-flow") 
- - *Vertical* https://github.com/msillano/vertical_hydroponics
+ - *Vertical hydroponics* https://github.com/msillano/vertical_hydroponics
+ 
 ![Vertical](images/vert-ico2.png "see https://github.com/msillano/vertical_hydroponics") 
