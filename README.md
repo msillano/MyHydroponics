@@ -1,5 +1,5 @@
-# MyHydroponics
-My projects about hydroponics:
+# MyHydroponic
+
 ----------
 ## solution calculators
  - *EC dilution* calculator for PC and smartphone. 
