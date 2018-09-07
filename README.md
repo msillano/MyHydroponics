@@ -2,10 +2,13 @@
 
 ----------
 ## solution calculators
- - *EC dilutions calculator* for PC and smartphone. 
-![EC_dilutions](images/dil-ico.png  "./EC_dilutions")
+ - *EC dilutions calculator* for PC and smartphone. https://github.com/msillano/MyHydroponics/tree/master/EC_dilutions
+![EC_dilutions](images/dil-ico.png  "see https://github.com/msillano/MyHydroponics/tree/master/EC_dilutions")
 
 
 --------
 ## complete DIY projects
-![Orchids Ebb and Flow](images/rfico.png  "https://github.com/msillano/Sonoff-ebb-and-flow")  ![Vertical](images/vert-ico2.png "https://github.com/msillano/vertical_hydroponics") 
+ - *Ebb and Flow* for Orchids."https://github.com/msillano/Sonoff-ebb-and-flow" 
+![Orchids Ebb and Flow](images/rfico.png  "see https://github.com/msillano/Sonoff-ebb-and-flow") 
+ - *Vertical* https://github.com/msillano/vertical_hydroponics
+![Vertical](images/vert-ico2.png "see https://github.com/msillano/vertical_hydroponics") 
