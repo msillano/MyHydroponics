@@ -3,7 +3,7 @@
 ----------
 ## solution calculators
  - *EC dilutions calculator* for PC and smartphone. 
-![EC_dilutions](images/dil-ico.png  "https://github.com/msillano/MyHydroponics/tree/master/EC_dilutions")
+![EC_dilutions](images/dil-ico.png  "./EC_dilutions")
 
 
 --------
