@@ -1,4 +1,4 @@
-# MyHydroponic
+# MyHydroponics
 
 ----------
 ## solution calculators
