@@ -1,11 +1,13 @@
 # MyHydroponics
 
 ----------
-## solution calculators
+## EC calculator
  - **EC dilutions calculator** for PC and smartphone. https://github.com/msillano/MyHydroponics/tree/master/EC_dilutions
   
 ![EC_dilutions](images/dil-ico.png  "see https://github.com/msillano/MyHydroponics/tree/master/EC_dilutions")
 
+----------
+## recipe calculators
 - **Nutritive solutions calculators:** 
      -- water mix calculator
      --  recipe calculator
@@ -18,10 +20,13 @@
  ![recipe](images/recipe.png  "see https://github.com/msillano/MyHydroponics/tree/master/recipes")
 
 --------
-## complete DIY projects
+## complete DIY projects: Ebb anfd Flow
  - **Ebb and Flow** for Orchids https://github.com/msillano/Sonoff-ebb-and-flow 
  
 ![Ebb and Flow](images/rfico.png  "see https://github.com/msillano/Sonoff-ebb-and-flow") 
+
+--------
+## complete DIY projects: Vertical hydroponics
  - **Idroponica verticale** https://github.com/msillano/vertical_hydroponics (only Italian version)
  
 ![Vertical](images/vert-ico2.png "see https://github.com/msillano/vertical_hydroponics") 
