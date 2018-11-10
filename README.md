@@ -20,7 +20,7 @@
  ![recipe](images/recipe.png  "see https://github.com/msillano/MyHydroponics/tree/master/recipes")
 
 --------
-## complete DIY projects: Ebb anfd Flow
+## complete DIY projects: Ebb and Flow
  - **Ebb and Flow** for Orchids https://github.com/msillano/Sonoff-ebb-and-flow 
  
 ![Ebb and Flow](images/rfico.png  "see https://github.com/msillano/Sonoff-ebb-and-flow") 
